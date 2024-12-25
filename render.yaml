@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: RAIDEN AI
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: "3000"
