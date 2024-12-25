@@ -19,8 +19,8 @@ To get started with RAIDEN-AI, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/FAMOUS-IA.git
-   cd FAMOUS-IA
+   git clone https://github.com/pixelPusher03/RAIDEN-AI.git
+   cd RAIDEN-AI
    ```
 
 2. **Install Dependencies**:
